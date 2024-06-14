@@ -11,19 +11,19 @@ A movie recommendation system is an application designed to suggest films to use
 
 ## Types of Recommendation Systems
 
-Content-Based Filtering:
+## Content-Based Filtering:
 Description: This approach recommends movies based on the features of the movies and the user’s past interactions. It focuses on the similarity between items.
 Example: If a user likes action movies, the system recommends other action movies.
 How it works: It analyzes movie attributes such as genre, director, actors, and plot keywords. It matches these attributes with the user’s preferences or the attributes of movies the user has rated highly.
 
-Collaborative Filtering:
+##Collaborative Filtering:
 Description: This approach recommends movies based on the behavior of similar users. It focuses on the relationship between users and items.
 Example: If user A and user B have similar taste in movies, and user A likes a movie that user B hasn't seen yet, that movie might be recommended to user B.
 
-Types:
+##Types:
 User-based Collaborative Filtering: Finds users similar to the target user and recommends movies they liked.
 Item-based Collaborative Filtering: Finds movies similar to ones the user has liked and recommends those.
 
-Hybrid Methods:
+##Hybrid Methods:
 Description: These methods combine content-based and collaborative filtering approaches to leverage the strengths of both.
 Example: A system might use collaborative filtering to identify a set of movies and then use content-based filtering to refine these recommendations based on the user's past preferences.
