@@ -1,9 +1,12 @@
 # Movie Recommendation System
+
 # Objective
 Build a movie recommendation system that suggests movies to users based on their preferences and viewing history.
+
 # Data Source
 We'll use the YBI Founndation dataset, You can download it from YBI Foundation Website.
 
+# Explaination 
 A movie recommendation system is an application designed to suggest films to users based on various criteria. These systems can help users discover new movies they are likely to enjoy by analyzing their preferences and behaviors, as well as the preferences and behaviors of similar users. Here's an overview of how movie recommendation systems work:
 
 Types of Recommendation Systems
