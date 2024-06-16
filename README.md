@@ -34,13 +34,14 @@ Example: A system might use collaborative filtering to identify a set of movies 
 # Wine Quality Prediction
 Wine quality prediction involves using various techniques, primarily statistical models and machine learning algorithms, to predict the quality of wine based on its chemical properties. This process can help winemakers and enthusiasts understand what factors influence wine quality and how to improve it.
 
-# Objective
+## Objective
 The objective of the Wine Quality Prediction project is to build a predictive model that can accurately assess the quality of wine based on its chemical properties. This project aims to provide insights into the factors influencing wine quality and help winemakers optimize their processes.
 
-# Data Source
+## Data Source
 We'll use the YBI Founndation dataset, You can download it from YBI Foundation Website.
 
-# Explaination
+## Explaination
 Wine quality prediction involves using data analysis and machine learning techniques to estimate the quality of wine based on its chemical properties and other relevant features. Here's a comprehensive explanation of the process:
+
 ## Overview
 Wine quality prediction aims to create models that can predict the quality rating of a wine sample given its chemical attributes. This can help winemakers improve their processes and ensure consistent product quality.
